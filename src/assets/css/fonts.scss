@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'questrial';
+  src: url('~/assets/css/fonts/questrial.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'exo-bold';
+  src: url('~/assets/css/fonts/exo-20-bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'exo-semibold';
+  src: url('~/assets/css/fonts/exo-20-semi-bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'exo-regular';
+  src: url('~/assets/css/fonts/exo-20.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.semibold {
+  font-family: 'exo-semibold', arial;
+}
+
+.bold {
+  font-family: 'exo-bold', arial;
+}
+
+.regular {
+  font-family: 'exo-regular', arial;
+}
+
+.decorative {
+  font-family: 'questrial', arial;
+}
+
+
+
+

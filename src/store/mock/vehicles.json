@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Hawk",
+    "pic": "Hawk_T.jpg",
+    "blocked": false,
+    "buy_only": false
+  },
+  {
+    "id": 2,
+    "name": "Mirage 2000C",
+    "pic": "DCS_M-2000_cover_700x1000_v3.jpg",
+    "blocked": false,
+    "buy_only": false
+  },
+  {
+    "id": 3,
+    "name": "Yak-52",
+    "pic": "DCS-Yak-52_700x1000_v2 (1).jpg",
+    "blocked": false,
+    "buy_only": false
+  },
+  {
+    "id": 4,
+    "name": "F/A-18C",
+    "pic": "DCS-F-18C_700x1000_v1.jpg",
+    "blocked": false,
+    "buy_only": false
+  },
+  {
+    "id": 5,
+    "name": "C-101 Aviojet",
+    "pic": "C-101-DVD-cover_700x1000px (1).jpg",
+    "blocked": false,
+    "buy_only": false
+  },
+  {
+    "id": 6,
+    "name": "MiG-15",
+    "pic": "DCS-MiG-15bis-450x300.jpg",
+    "blocked": true,
+    "buy_only": true
+  },
+  {
+    "id": 7,
+    "name": "L-39C",
+    "blocked": true,
+    "buy_only": false,
+    "pic": "DCS_L-39_banner_for_ED_450х300_v1.jpg"
+  }
+]
